@@ -72,15 +72,6 @@ Board design, workflows, backlog hygiene, executive dashboards
 
 ---
 
-## How Recruiters and Hiring Managers Should Use This Profile
-
-- Start with the **Enterprise Agile Delivery Portfolio**
-- Review repositories top-down
-- Treat content as operating standards, not examples
-- Reference artifacts during interviews
-
----
-
 📍 Dallas, Texas, USA  
 🔗 LinkedIn: https://www.linkedin.com/in/abdul-rahimhm/  
 🌐 Portfolio: https://abdulrahimhm78.github.io
