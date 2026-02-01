@@ -1,93 +1,86 @@
 # Abdul Rahim Hakim Mohammed
 
 **Senior SAFe Scrum Master | Agile Delivery Lead**  
-Dallas, Texas, USA
+Dallas, Texas, USA  
 
-🔗 Portfolio Website: https://abdulrahimhm.github.io  
-🔗 LinkedIn: https://www.linkedin.com/in/abdul-rahimhm/
+🔗 **Enterprise Agile Delivery Portfolio**  
+https://abdulrahimhm78.github.io  
+
+🔗 **LinkedIn**  
+https://www.linkedin.com/in/abdul-rahimhm/  
 
 ---
 
 ## Executive Summary
 
-Senior Agile delivery leader with deep experience enabling predictable,
-enterprise-scale execution across complex and regulated environments.
-Specializes in Scrum, SAFe, delivery metrics, program execution,
-and Jira governance.
+Senior Agile delivery leader with extensive experience driving predictable,
+enterprise-scale execution across complex, regulated, and data-intensive environments.
 
-Proven ability to operate at:
-- Team level
-- Program / ART level
-- Executive reporting level
+Proven ability to operate effectively across:
+- Scrum team execution
+- Program / ART-level delivery
+- Enterprise delivery governance and executive reporting
+
+This profile represents **how Agile delivery is executed in real Fortune 50 environments**.
+
+---
+
+## What I Bring
+
+- Enterprise-grade Scrum and SAFe leadership  
+- Flow metrics and delivery health optimization  
+- Dependency, risk, and impediment management at scale  
+- Jira governance and backlog hygiene  
+- Executive-level transparency and decision support  
 
 ---
 
 ## Enterprise Agile Delivery Portfolio
 
-This GitHub contains real, production-grade delivery artifacts used to
-run Agile teams in Fortune 50–style environments.
+The repositories below contain **real operating standards and artifacts** used to
+run Agile delivery in large enterprises.
 
-### 1️⃣ Enterprise Scrum Playbook
-📁 Repository: `enterprise-scrum-playbook`
+### 📘 Enterprise Scrum Playbook
+Standards for Scrum execution at scale:  
+Sprint Planning, Daily Scrum, Review, Retrospective, roles, DoR, DoD
 
-- Scrum events (Planning, Daily Scrum, Review, Retrospective)
-- Clear role definitions (Scrum Master, Product Owner)
-- Delivery standards (Definition of Ready, Definition of Done)
-
-➡️ https://github.com/<your-username>/enterprise-scrum-playbook
+➡️ https://github.com/abdulrahimhm78/enterprise-scrum-playbook  
 
 ---
 
-### 2️⃣ Agile Metrics & Flow
-📁 Repository: `agile-metrics-and-flow`
+### 📊 Agile Metrics & Flow
+Flow-based delivery metrics focused on predictability and outcomes:  
+Throughput, Cycle Time, Quality, Capacity Forecasting, Anti-patterns
 
-- Flow metrics (Throughput, Cycle Time)
-- Delivery health (Predictability, Quality)
-- Capacity forecasting
-- Anti-patterns (vanity metrics)
-
-➡️ https://github.com/<your-username>/agile-metrics-and-flow
+➡️ https://github.com/abdulrahimhm78/agile-metrics-and-flow  
 
 ---
 
-### 3️⃣ Scaled Agile Delivery
-📁 Repository: `scaled-agile-delivery`
+### 🧭 Scaled Agile Delivery
+SAFe-aligned program execution and coordination:  
+PI Planning, dependencies, risks, and program-level visibility
 
-- PI Planning (Preparation, Day 1, Day 2)
-- Dependency identification & tracking
-- Risk identification & escalation
-- Program-level visibility and executive metrics
-
-➡️ https://github.com/<your-username>/scaled-agile-delivery
+➡️ https://github.com/abdulrahimhm78/scaled-agile-delivery  
 
 ---
 
-### 4️⃣ Jira Governance
-📁 Repository: `jira-governance`
+### ⚙️ Jira Governance
+Enterprise Jira standards and delivery visibility:  
+Board design, workflows, backlog hygiene, executive dashboards
 
-- Scrum & Kanban board standards
-- Workflow and issue-type governance
-- Backlog hygiene and stale item control
-- Executive dashboard reporting
-
-➡️ https://github.com/<your-username>/jira-governance
+➡️ https://github.com/abdulrahimhm78/jira-governance  
 
 ---
 
-## How to Use This Portfolio
+## How Recruiters and Hiring Managers Should Use This Profile
 
-Recruiters and hiring managers are encouraged to:
+- Start with the **Enterprise Agile Delivery Portfolio**
 - Review repositories top-down
-- Treat content as delivery standards, not theory
+- Treat content as operating standards, not examples
 - Reference artifacts during interviews
 
-This portfolio reflects **how I operate in real enterprise environments**.
-
 ---
-
-## Contact
 
 📍 Dallas, Texas, USA  
 🔗 LinkedIn: https://www.linkedin.com/in/abdul-rahimhm/  
-🌐 Website: https://abdulrahimhm.github.io
-
+🌐 Portfolio: https://abdulrahimhm78.github.io
